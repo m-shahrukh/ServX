@@ -1,28 +1,16 @@
 package pl.servx.servx.Model;
 
-import java.util.List;
-import java.util.Vector;
-
 public class User {
     private String Name;
-    private String Password;
-    List<vehicle> vehicles;
-
+    private String Email;
     public User(){
      Name= "";
-     Password="";
-     vehicles =  new Vector<vehicle>();
+     Email="";
 
     }
-    public User(String name, String pass){
+    public User(String name, String email){
         Name = name;
-        Password = pass;
-        vehicles =  new Vector<vehicle>();
-        vehicle vehi= new vehicle();
-        vehi.vmake="";
-        vehi.vmodel="";
-        vehi.vyear="";
-        vehicles.add(vehi);
+        Email = email;
 
     }
 
@@ -30,15 +18,17 @@ public class User {
         return Name;
     }
 
-    public String getPassword() {
-        return Password;
+
+    public String getEmail() {
+        return Email;
     }
 
     public void setName(String name) {
         Name = name;
     }
 
-    public void setPassword(String password) {
-        Password = password;
+
+    public void setEmail(String email){
+        Email = email;
     }
 }

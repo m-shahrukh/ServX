@@ -5,8 +5,8 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#00A2FF</item>
         <item name="colorPrimaryDark">#00304d</item>
-        <item name="colorAccent">#FFB52F</item>
-        <item name = "android:windowActivityTransitions">true</item>
+        <item name="colorAccent">#000000</item>
+        <item name="android:windowActivityTransitions">true</item>
 
     </style>
 
@@ -18,6 +18,7 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
 
 </resources>
 

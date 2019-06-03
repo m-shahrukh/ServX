@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pl.servx.servx">
-
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true" />
 
     <application
         android:allowBackup="true"
@@ -11,14 +22,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".home"></activity>
-        <activity android:name=".SignUp" />
+        <activity android:name=".service_history"></activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
         <activity
-            android:name=".tabbed_signin"
-            android:label="@string/title_activity_tabbed_signin"
+            android:name=".Cart"
+            android:label="@string/title_activity_cart"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".sign_in" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".select_location"
+            android:label="@string/title_activity_select_location" />
+        <activity
+            android:name=".Tabbed_Main"
+            android:label=" "
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".services_tabbed"
+            android:label=" "
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AddCarForm" />
+        <activity android:name=".home"
+            android:label=" "
+            android:theme="@style/AppTheme" />
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

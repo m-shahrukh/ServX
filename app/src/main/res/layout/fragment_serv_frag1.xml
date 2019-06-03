@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serv_frag1"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/btn_cart">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="16dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/P1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginBottom="0dp"
+                    android:text="Gold Package"
+                    android:textColor="@color/grey"
+                    android:textSize="32sp" />
+
+                <Button
+                    android:id="@+id/btnM1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="8dp"
+                    android:layout_toStartOf="@+id/btnP1"
+                    android:background="@color/grey"
+                    android:text="-"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+
+                <Button
+                    android:id="@+id/btnP1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginBottom="6dp"
+                    android:background="@drawable/button_background"
+                    android:text="+"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/p_info"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginStart="5dp"
+                android:text="Package Info"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/p_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:text="Cost"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="@color/colorPrimaryDark" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/P2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Silver Package"
+                    android:textSize="32sp"
+                    android:textColor="@color/grey"/>
+
+                <Button
+                    android:id="@+id/btnM2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="8dp"
+                    android:layout_toStartOf="@+id/btnP2"
+                    android:background="@color/grey"
+                    android:text="-"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+                <Button
+                    android:id="@+id/btnP2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/button_background"
+                    android:text="+"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/p_info2"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_marginStart="5dp"
+                android:text="Package Info"
+                android:textSize="24sp" />
+
+
+            <TextView
+                android:id="@+id/p_cost2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:text="Cost"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/P3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Bronze Package"
+                    android:textColor="@color/grey"
+                    android:textSize="32sp" />
+
+                <Button
+                    android:id="@+id/btnM3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toStartOf="@+id/btnP3"
+                    android:background="@color/grey"
+                    android:text="-"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+                <Button
+                    android:id="@+id/btnP3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/button_background"
+                    android:text="+"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/p_info3"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_marginStart="5dp"
+                android:text="Package Info"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/p_cost3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Cost"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    </ScrollView>
+    <Button
+        android:id="@+id/btn_cart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Cart"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="8dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

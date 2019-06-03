@@ -5,6 +5,10 @@
         android:top="2dp"
         android:right="2dp"
         android:bottom="2dp" />
-    <corners android:radius="5dp" />
-    <solid android:color="#0C1435" />
+
+    <gradient
+        android:angle = "90"
+        android:endColor= "@color/colorPrimary"
+        android:startColor = "@color/colorPrimaryDark"
+        />
 </shape>

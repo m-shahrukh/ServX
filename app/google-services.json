@@ -21,6 +21,18 @@
             "package_name": "pl.servx.servx",
             "certificate_hash": "6945f41dbba82928745d3515c1db6876a470cbe7"
           }
+        },
+        {
+          "client_id": "1048415000509-d04docm2a8bojpatesma3s2k5egeggp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.servx.servx",
+            "certificate_hash": "c0725ffd1ecb547ab84c97787cfa8882291ced9a"
+          }
+        },
+        {
+          "client_id": "1048415000509-af3omi2ou4079jrt66o8ha60rgbo4l55.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [

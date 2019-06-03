@@ -4,75 +4,123 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     tools:context=".home">
+
+   <!-- <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerInParent="true"
+    android:background="@drawable/rectangle"
+    android:orientation="vertical"
+    android:textColor="@android:color/white">
+
+    <TextView
+        android:id="@+id/stat_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:text="@string/home"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    </LinearLayout>-->
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
 
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerInParent="true"
-        android:background="@drawable/rectangle"
-        android:orientation="vertical"
-        android:textColor="@android:color/white">
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/stat_text"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="16dp"
-            android:text="Home"
-            android:textColor="@android:color/white"
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:weightSum="6">
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="157dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_weight="5"
+                android:spinnerMode="dropdown"
+                android:textColor="@android:color/black" />
+
+            <Button
+                android:id="@+id/btnAddCar"
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.95"
+                android:layout_marginEnd="20dp"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="+"
+                android:textColor="@color/white"
+                android:textSize="35sp">
+
+            </Button>
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btnServices"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/occw1"
+            android:backgroundTint="@color/common_google_signin_btn_text_light_focused"
+            android:backgroundTintMode="src_atop"
+            android:elevation="100dp"
+            android:text="@string/services"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+<!--        <Button
+            android:id="@+id/btnmaps"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="112dp"
+            android:layout_height="33dp"
+            android:layout_margin="50dp"
+            android:elevation="100dp"
+            android:text="dummy button for maps"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />-->
+
+        <Button
+            android:id="@+id/btnHistory"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="@drawable/hist6"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginRight="20dp"
+            android:backgroundTint="@color/common_google_signin_btn_text_light_focused"
+            android:backgroundTintMode="src_atop"
+            android:elevation="100dp"
+            android:text="service History"
+            android:textColor="@color/white"
             android:textSize="30sp"
             android:textStyle="bold" />
 
     </LinearLayout>
-
-
-
-    <LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:layout_marginTop="80dp"
-    android:orientation="vertical">
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="183dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginTop="80dp"
-
-        android:layout_marginRight="16dp"
-        android:autoText="false"
-        android:background="@drawable/carwash"
-        android:backgroundTint="@color/common_google_signin_btn_text_light_focused"
-        android:backgroundTintMode="src_atop"
-        android:text="Car Wash"
-        android:textStyle="bold"
-        android:textColor="@android:color/white"
-        android:textSize="30sp"
-        tools:background="@drawable/carwash"/>
-
-    <Button
-        android:id="@+id/button"
-        style="@style/Widget.AppCompat.Button"
-        android:layout_width="match_parent"
-        android:layout_height="183dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginTop="50dp"
-        android:layout_marginRight="16dp"
-        android:allowUndo="false"
-        android:backgroundTint="@color/common_google_signin_btn_text_light_focused"
-        android:backgroundTintMode="src_atop"
-        android:text="Oil Change"
-        android:textStyle="bold"
-        android:textColor="@android:color/white"
-        android:textSize="30sp"
-        tools:background="@drawable/oilchange"
-        tools:style="@style/Widget.AppCompat.Button" />
-</LinearLayout>
 
 </RelativeLayout>

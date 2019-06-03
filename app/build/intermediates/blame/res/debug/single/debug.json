@@ -36,6 +36,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_button_background.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/button_background.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/abc_list_selector_holo_dark.xml"
     },
@@ -60,6 +64,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/91f973f7e18f5120952691556a9c6bc7/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_screen_toolbar.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/mubeen/Desktop/ServX/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
@@ -70,10 +78,6 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_logos.png.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/logos.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -228,6 +232,14 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_oilchange.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/oilchange.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_background.xml.flat",
+        "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/1f6e5d82b4e20fd884412bddf821efcb/res/drawable/background.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -318,6 +330,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/toolbar.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
@@ -432,6 +448,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/color/abc_search_url_text.xml"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/menu_menu_services_tabbed.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/menu/menu_services_tabbed.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/tooltip_frame_dark.xml"
     },
@@ -540,12 +560,20 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_recenter.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/recenter.png"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_fragment_services_tabbed.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/fragment_services_tabbed.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -564,8 +592,16 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_layout.xml.flat",
+        "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/lib-1.0.2.aar/1f6e5d82b4e20fd884412bddf821efcb/res/layout/layout.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_spinner_row.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/spinner_row.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_logo_servx.png.flat",
@@ -628,6 +664,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_service_history.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_service_history.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_search_view.xml"
     },
@@ -640,12 +680,28 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_simple_spinner_dropdown_item.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_simple_spinner_item.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_marker1.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/marker1.png"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38ebd4a85ba75b547664ad34a8a22a8f/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_marker.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/marker.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
@@ -674,6 +730,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_hist6.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/hist6.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -716,6 +776,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0b8dbaf4cfb78b389f49167bc1bcc49f/res/layout/notification_template_part_chronometer.xml"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_refresh.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/refresh.png"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -730,6 +794,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/menu/menu.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -760,8 +828,16 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_gradient.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/gradient.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/menu_menu_tabbed__main.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/menu/menu_tabbed__main.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
@@ -880,6 +956,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_fragment_serv_frag1.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/fragment_serv_frag1.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -922,6 +1002,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-v24_plus.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable-v24/plus.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
@@ -996,12 +1080,20 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_services_tabbed.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_services_tabbed.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_occw1.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/occw1.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -1014,6 +1106,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_tabbed__main.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_tabbed__main.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1172,16 +1268,12 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/91f973f7e18f5120952691556a9c6bc7/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_oilchange.jpg.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/oilchange.jpg"
-    },
-    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_recenter1.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/recenter1.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi_met_ic_clear.png.flat",
@@ -1220,6 +1312,10 @@
         "source": "/home/mubeen/Desktop/ServX/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/menu_menu_cart.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/menu/menu_cart.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/91f973f7e18f5120952691556a9c6bc7/res/drawable/common_google_signin_btn_text_light.xml"
     },
@@ -1240,12 +1336,12 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
@@ -1258,6 +1354,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_select_location.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_select_location.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
@@ -1334,6 +1434,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_arrow.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/arrow.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
@@ -1416,6 +1520,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/select_dialog_multichoice_material.xml"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/logo.png"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/91f973f7e18f5120952691556a9c6bc7/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
@@ -1456,10 +1564,6 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_sign_in.xml.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_sign_in.xml"
-    },
-    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_action_mode_bar.xml"
     },
@@ -1470,6 +1574,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38ebd4a85ba75b547664ad34a8a22a8f/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_cart.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_cart.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1512,10 +1620,6 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_sign_up.xml"
-    },
-    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38ebd4a85ba75b547664ad34a8a22a8f/res/anim/design_snackbar_out.xml"
     },
@@ -1554,6 +1658,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_backarrow.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/backarrow.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
@@ -1598,6 +1706,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_cards_layout.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/cards_layout.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1708,6 +1820,10 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0b8dbaf4cfb78b389f49167bc1bcc49f/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_tabbed_login.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/tabbed_login.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/abc_seekbar_thumb_material.xml"
     },
@@ -1738,6 +1854,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_occw.png.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/drawable/occw.png"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -1852,8 +1972,16 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_tabbed_signup.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/tabbed_signup.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -1888,10 +2016,6 @@
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/menu_menu_tabbed_signin.xml.flat",
-        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/menu/menu_tabbed_signin.xml"
-    },
-    {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable/tooltip_frame_light.xml"
     },
@@ -1918,6 +2042,10 @@
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/home/mubeen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4e5f77e13aced1e118a37a4498bd969/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/layout_activity_add_car_form.xml.flat",
+        "source": "/home/mubeen/Desktop/ServX/app/src/main/res/layout/activity_add_car_form.xml"
     },
     {
         "merged": "/home/mubeen/Desktop/ServX/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
